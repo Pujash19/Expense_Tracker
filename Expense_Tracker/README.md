@@ -17,5 +17,5 @@ This a expense tracker which keeps track of income and expenses built using reac
 Text-editors used: VS Code
 ## Screenshots
 
-![Screenshot (28)]()
-![Screenshot (29)]()
+![Screenshot (28)](https://github.com/Pujash19/Expense_Tracker/blob/main/Expense_Tracker/screenshot/Screenshot%202024-07-07%20193452.png)
+![Screenshot (29)](https://github.com/Pujash19/Expense_Tracker/blob/main/Expense_Tracker/screenshot/Screenshot%202024-07-07%20193625.png)
